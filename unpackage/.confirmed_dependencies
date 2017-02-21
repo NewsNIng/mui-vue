@@ -1,0 +1,20 @@
+{
+	"dist/module/demo.html": {
+		"resources": [
+			"dist/static/js/module/demo.fa704d8ebce1a62ed353.js",
+			"dist/static/js/vendor.0118d3c4b7cc570ad565.js",
+			"dist/static/js/manifest.32d132454ef5f1b74ab0.js",
+			"dist/static/js/manifest.f0aa5a0f07abd4514f57.js",
+			"dist/static/js/module/demo.cefc4cd9453d6950e49b.js",
+			"dist/static/js/manifest.9ef908b46ce786a69c30.js",
+			"dist/static/js/module/demo.4573f3c045ed8996f9ad.js",
+			"dist/static/js/manifest.f8e3fab9ae41535305ea.js",
+			"dist/static/js/module/demo.f5701acccbea685ee47c.js",
+			"dist/static/fonts/mui.ttf",
+			"dist/static/css/mui.min.css",
+			"dist/static/js/module/demo.a082e601833cf50f2729.js",
+			"dist/static/js/manifest.44ec90da9c857058c9d1.js"
+		],
+		"refer": []
+	}
+}
