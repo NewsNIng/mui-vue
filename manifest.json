@@ -10,7 +10,7 @@
 	"icons": {
 		"72": "icon.png"
 	},
-	"launch_path": "dist/module/demo.html",/*应用的入口页面，默认为根目录下的index.html；支持网络地址，必须以http://或https://开头*/
+	"launch_path": "dist/module/index.html",/*应用的入口页面，默认为根目录下的index.html；支持网络地址，必须以http://或https://开头*/
 	"developer": {
 		"name": "",/*开发者名称*/
 		"email": "",/*开发者邮箱地址*/
@@ -462,6 +462,49 @@
 					"dist/static/css/mui.min.css",
 					"dist/static/js/module/demo.a082e601833cf50f2729.js",
 					"dist/static/js/manifest.44ec90da9c857058c9d1.js"
+				],
+				"refer": [],
+				"priority": 0
+			},
+			"dist/module/home.html": {
+				"resources": [
+					"dist/static/js/module/home.2b8521c5bb2da310f920.js",
+					"dist/static/css/mui.min.css"
+				],
+				"refer": [],
+				"priority": 0
+			},
+			"dist/module/index.html": {
+				"resources": [
+					"dist/module/home.html",
+					"dist/static/js/module/index.5745375551acc13a312d.js",
+					"dist/static/js/vendor.97c62ccb92805e241a27.js",
+					"dist/static/fonts/mui.ttf",
+					"dist/static/js/manifest.94df5be60606f2d03eae.js",
+					"dist/static/css/mui.min.css",
+					"dist/static/js/module/index.cc3f2916113a782a7093.js",
+					"dist/static/js/manifest.617bbf3ae7357d02ccbc.js",
+					"dist/static/js/manifest.9446869da44e1a70c8c8.js",
+					"dist/static/js/module/index.8159e8b668f9f2d8dc4b.js",
+					"dist/static/js/manifest.8826edb63d1ae683ef28.js",
+					"dist/static/js/module/index.cc575b13e20f0e7e2204.js",
+					"dist/module/shopp.html",
+					"dist/static/js/module/index.79410e04055ac7c76159.js",
+					"dist/static/js/manifest.1526f155d5e4e2ef41f6.js",
+					"dist/static/js/manifest.5737de066c2cd7c8db41.js",
+					"dist/static/js/module/index.c087731ac818c0d4670b.js",
+					"dist/static/js/module/index.acc4a8476198faaa6f60.js",
+					"dist/static/js/manifest.438981731ea49b596baf.js",
+					"dist/static/js/manifest.76619d6be6f19cb3f110.js",
+					"dist/static/js/module/index.52036c4b8cce7da6839f.js"
+				],
+				"refer": [],
+				"priority": 0
+			},
+			"dist/module/shopp.html": {
+				"resources": [
+					"dist/static/js/module/shopp.5730080606defdec819c.js",
+					"dist/static/css/mui.min.css"
 				],
 				"refer": [],
 				"priority": 0
