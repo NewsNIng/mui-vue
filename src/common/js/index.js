@@ -10,4 +10,6 @@ Vue.use(VueExtends)
 import mui from '../../../static/js/mui.min.js'
 // require ('../../../static/css/mui.min.css')
 
-module.exports = {mui}
+import ax from './config/server.js'
+
+module.exports = {mui,ax}
